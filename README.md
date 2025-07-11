@@ -1,6 +1,7 @@
 # AI-Based Technical Support Chatbot
 
 This project introduces an AI-powered **Technical Support Chatbot** designed to enhance the support experience for students at educational institutions. The chatbot leverages **LLaMA 3** (Meta AI) to provide accurate, dynamic responses in both **English** and **Arabic**. By automating the process of answering technical support queries, it reduces the reliance on human staff, improves operational efficiency, and enhances student satisfaction.
+![Chatbot User Interface](https://github.com/AmrkhaledGaber/AI-Technical-Support-Chatbot/blob/master/Chatbot.png)
 
 ## Table of Contents
 
