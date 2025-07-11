@@ -167,8 +167,8 @@ We welcome contributions to improve the chatbot. Please fork the repository, cre
 
 ## Team Members
 
-* **Amr Khaled Gaber** - \[21100834]
-* **Aya Tamer Ginidy** - \[21100790]
-* **Mohamed Talat Elslmawy** - \[21100809]
-* **Ahmed Mohamed Dawood** - \[21100820]
-* **George Nashaat Mosaed** - \[21100825]
+* **Amr Khaled Gaber**
+* **Aya Tamer Ginidy** 
+* **Mohamed Talat Elslmawy** 
+* **Ahmed Mohamed Dawood** 
+* **George Nashaat Mosaed** 
