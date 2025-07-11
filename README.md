@@ -17,7 +17,7 @@ This project introduces an AI-powered **Technical Support Chatbot** designed to 
 11. [Future Work](#future-work)
 12. [Conclusion](#conclusion)
 13. [Contributing](#contributing)
-14. [License](#license)
+14. [Team Members](#team-members)
 
 ## Introduction
 
@@ -165,3 +165,10 @@ The **AI-Based Technical Support Chatbot** provides an efficient, scalable, and 
 We welcome contributions to improve the chatbot. Please fork the repository, create a new branch, and submit a pull request with your improvements.
 
 
+## Team Members
+
+* **Amr Khaled Gaber** - \[21100834]
+* **Aya Tamer Ginidy** - \[21100790]
+* **Mohamed Talat Elslmawy** - \[21100809]
+* **Ahmed Mohamed Dawood** - \[21100820]
+* **George Nashaat Mosaed** - \[21100825]
